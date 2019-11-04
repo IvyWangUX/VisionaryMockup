@@ -11270,6 +11270,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u367 {
   border-width:0px;
@@ -11278,6 +11281,9 @@
   top:444px;
   width:12px;
   height:12px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u367_text {
   border-width:0px;
@@ -11302,6 +11308,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -11312,6 +11321,9 @@
   top:442px;
   width:64px;
   height:14px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -11328,7 +11340,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:52px;
+  width:51px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -11337,6 +11349,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -11345,8 +11360,11 @@
   position:absolute;
   left:827px;
   top:483px;
-  width:52px;
+  width:51px;
   height:16px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -11355,7 +11373,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:52px;
+  width:51px;
   white-space:nowrap;
 }
 #u370_div {
@@ -11372,6 +11390,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -11382,6 +11403,9 @@
   top:521px;
   width:67px;
   height:16px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -11584,6 +11608,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u378 {
   border-width:0px;
@@ -11592,6 +11619,9 @@
   top:485px;
   width:12px;
   height:12px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u378_text {
   border-width:0px;
@@ -11616,6 +11646,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u379 {
   border-width:0px;
@@ -11624,6 +11657,9 @@
   top:523px;
   width:12px;
   height:12px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u379_text {
   border-width:0px;
@@ -11639,7 +11675,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:46px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -11648,6 +11684,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -11656,8 +11695,11 @@
   position:absolute;
   left:826px;
   top:562px;
-  width:48px;
+  width:46px;
   height:16px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -11666,7 +11708,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:46px;
   white-space:nowrap;
 }
 #u381_div {
@@ -11683,6 +11725,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u381 {
   border-width:0px;
@@ -11691,6 +11736,9 @@
   top:564px;
   width:12px;
   height:12px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u381_text {
   border-width:0px;
@@ -12071,7 +12119,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:46px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -12080,6 +12128,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -12088,8 +12139,11 @@
   position:absolute;
   left:826px;
   top:604px;
-  width:48px;
+  width:46px;
   height:16px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.498039215686275);
 }
@@ -12098,7 +12152,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:46px;
   white-space:nowrap;
 }
 #u393_div {
@@ -12115,6 +12169,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u393 {
   border-width:0px;
@@ -12123,6 +12180,9 @@
   top:606px;
   width:12px;
   height:12px;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
 }
 #u393_text {
   border-width:0px;
@@ -12523,9 +12583,6 @@
   top:736px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -12533,7 +12590,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -12643,9 +12700,6 @@
   top:790px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -12653,7 +12707,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -12763,9 +12817,6 @@
   top:844px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -12773,7 +12824,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -12883,9 +12934,6 @@
   top:897px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -12893,7 +12941,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -13003,9 +13051,6 @@
   top:950px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -13013,7 +13058,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -13123,9 +13168,6 @@
   top:736px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -13133,7 +13175,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -13243,9 +13285,6 @@
   top:790px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -13253,7 +13292,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -13363,9 +13402,6 @@
   top:844px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -13373,7 +13409,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -13483,9 +13519,6 @@
   top:897px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -13493,7 +13526,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
@@ -13603,9 +13636,6 @@
   top:950px;
   width:34px;
   height:32px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
   font-size:16px;
   color:#23CFF5;
 }
@@ -13613,7 +13643,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:8px;
   width:30px;
   word-wrap:break-word;
 }
