@@ -67,6 +67,11 @@
 }
 .flow_shape {
 }
+.connector {
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
+}
 .image1 {
   font-family:'72-Regular', '72';
   font-weight:400;
@@ -150,7 +155,7 @@
   font-weight:400;
   font-style:normal;
 }
-.connector {
+.connector1 {
   font-family:'72-Regular', '72';
   font-weight:400;
   font-style:normal;
