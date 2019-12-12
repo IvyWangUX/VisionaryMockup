@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="266px" height="34px" preserveAspectRatio="xMinYMid meet" viewBox="36 23  266 32" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="211.5" y1="0" x2="211.5" y2="102" id="LinearGradient600">
-      <stop id="Stop601" stop-color="#0094e6" offset="0" />
-      <stop id="Stop602" stop-color="#0094e6" offset="0.5" />
-      <stop id="Stop603" stop-color="#ff9900" offset="0.88" />
-      <stop id="Stop604" stop-color="#ff9900" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="211.5" y1="0" x2="211.5" y2="102" id="LinearGradient782">
+      <stop id="Stop783" stop-color="#0094e6" offset="0" />
+      <stop id="Stop784" stop-color="#0094e6" offset="0.5" />
+      <stop id="Stop785" stop-color="#ff9900" offset="0.88" />
+      <stop id="Stop786" stop-color="#ff9900" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(-0.984807753012208 0.17364817766693 -0.17364817766693 -0.984807753012208 342.204789188073 48.0609603417649 )">
-    <path d="M 0 0  L 39.8340807174887 16  L 82.5134529147982 12  L 129.934977578475 14  L 165.97533632287 12  L 212.448430493274 22  L 254.179372197309 43  L 294.013452914798 55  L 332.899103139014 61  L 375.578475336323 83  L 423 102  " stroke-width="2" stroke="url(#LinearGradient600)" fill="none" transform="matrix(1 0 0 1 1 14 )" />
+    <path d="M 0 0  L 39.8340807174887 16  L 82.5134529147982 12  L 129.934977578475 14  L 165.97533632287 12  L 212.448430493274 22  L 254.179372197309 43  L 294.013452914798 55  L 332.899103139014 61  L 375.578475336323 83  L 423 102  " stroke-width="2" stroke="url(#LinearGradient782)" fill="none" transform="matrix(1 0 0 1 1 14 )" />
   </g>
 </svg>
